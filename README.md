@@ -21,14 +21,11 @@ While I want to commit myself to learning software engineering, it is also impor
 
 On top of that, I'm also **drawing some anime style** characters, which is also a hobby!
 Man... I'm picking my nose into everything that got my attention. 🤣
-By the way, you can see my works on my [Deviant Art profile](url_deviant_art).
+By the way, you can see my works on my [Deviant Art profile](https://www.deviantart.com/sausagetaste).
 
 
 # Links to where I'm active
 
 * [Twitter](https://twitter.com/woos8899)
 * [Steam](https://steamcommunity.com/id/sausagetaste/)
-* [Deviant Art](url_deviant_art)
-
-
-[url_deviant_art]: https://www.deviantart.com/sausagetaste
+* [Deviant Art](https://www.deviantart.com/sausagetaste)
