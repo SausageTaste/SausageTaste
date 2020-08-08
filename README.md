@@ -13,11 +13,13 @@ For **English**, reading and writing are ok but speaking and listening are not.
 ## Things I do
 
 Am a **hobbyst programmer**.
-Currently working on a game engine that can run on both Windows and Android. You can check out the project repository [here](https://github.com/SausageTaste/Little-Ruler).
+Currently working on a game engine that can run on both Windows and Android.
+You can check out the project repository [here](https://github.com/SausageTaste/Little-Ruler).
 
 In university, I **major economics**, which has nothing to do with programming. 😆
-I didn't know my passion when I was applying for this major.
-While I want to commit myself to learning software engineering, it is also important to pay enough attention to my major. Taking balance between them is the most difficut challenge I'm facing at the moment.
+I didn't know my passion when I was applying for this degree.
+While I want to commit myself to learning software engineering, it is also important to pay enough attention to my major.
+Taking balance between them is the most difficut challenge I'm facing at the moment.
 
 On top of that, I'm also **drawing some anime style** characters, which is also a hobby!
 Man... I'm picking my nose into everything that got my attention. 🤣
