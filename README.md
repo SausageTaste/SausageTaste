@@ -31,3 +31,4 @@ By the way, you can see my works on my [Deviant Art profile](https://www.deviant
 * [Twitter](https://twitter.com/woos8899)
 * [Steam](https://steamcommunity.com/id/sausagetaste/)
 * [Deviant Art](https://www.deviantart.com/sausagetaste)
+* [Blog (Korean)](https://sausagetaste.github.io/)
