@@ -2,7 +2,6 @@
 
 My name is ***Sungmin Woo***.<br>
 I live in Seoul, South Korea. 🇰🇷<br>
-I study economics in Dongguk Univ.
 
 ## Contact
 
@@ -12,8 +11,10 @@ Twitter : [@woos8899](https://twitter.com/woos8899)
 ## I'm working on
 
 * [A game engine project](https://github.com/SausageTaste/Dalbaragi), which uses Vulkan API to render.
-* There is [another game engine project](https://github.com/SausageTaste/Little-Ruler), which uses OpenGL. It is kinda dead by now, but is the most profound thing I've ever made so far.
-* [Blog](https://sausagetaste.github.io/)! The posts are written in Korean, btw.
+* There is [another game engine project](https://github.com/SausageTaste/Little-Ruler), which uses OpenGL.
+  I am not working on it anymore, but it's the most profound programming project I've ever worked on so far.
+* [Blog](https://sausagetaste.github.io/)!
+  The posts are written in Korean, btw.
 
 ## Languages
 
