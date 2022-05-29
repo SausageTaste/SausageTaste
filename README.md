@@ -3,10 +3,9 @@
 My name is ***Sungmin Woo***.<br>
 I live in Seoul, South Korea. 🇰🇷<br>
 
-## Contact
-
-E-mail : woos8899@gmail.com<br>
-Twitter : [@woos8899](https://twitter.com/woos8899)
+* woos8899@gmail.com<br>
+* Twitter [@woos8899](https://twitter.com/woos8899)
+* [PGP Public Key](https://sausagetaste.github.io/assets/files/Sungmin%20Woo%20(High%20Security)_0x27419E96_public.asc)
 
 ## I'm working on
 
