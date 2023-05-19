@@ -23,4 +23,4 @@ For **English**, reading and writing are ok but speaking and listening are not.
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sausagetaste&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sausagetaste&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sausagetaste&count_private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
