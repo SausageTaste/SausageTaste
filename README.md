@@ -9,9 +9,15 @@ I live in Seoul, South Korea. 🇰🇷<br>
 
 ## I'm working on
 
-* [A game engine project](https://github.com/SausageTaste/mirinae), which uses Vulkan API to render.
-* [Blog](https://sausagetaste.github.io/)!
-  It's in Korean, btw.
+A game engine!
+It's a huge infrastructure with following repositories:
+* Main engine project is [Mirinae](https://github.com/SausageTaste/mirinae)
+* [Android Studio project](https://github.com/SausageTaste/Mirinae-Android) of it
+* [Blender extension](https://github.com/SausageTaste/io_scene_dalbaragi) to export models to JSON
+* [A tools](https://github.com/SausageTaste/dalbaragi) that parses JSON and produces *Dalbaragi Model Data (DMD)*, which is my own 3D file format
+
+I have a [blog](https://sausagetaste.github.io/) as well!
+It's in Korean, btw.
 
 ## Languages
 
